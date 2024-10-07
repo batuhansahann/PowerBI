@@ -3,7 +3,7 @@
 Welcome to my repository! This space is dedicated to showcasing various **Power BI** projects I have worked on, using cleaned and organized datasets to create interactive dashboards and reports.
 
 <p align="center">
-<img src="icons/your-image.png" width="500" height="500"/>
+<img src="https://logos-world.net/wp-content/uploads/2022/02/Microsoft-Power-BI-Symbol.png" width="400" height="200"/>
 </p>
 
 ## Overview
