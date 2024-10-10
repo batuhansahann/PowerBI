@@ -17,6 +17,8 @@ Bu proje, Global Süpermarket veri seti için satış, kar ve diğer önemli met
 ## Proje Genel Bakış
 
 Global Süpermarket Panosu, ürünler, müşteriler ve bölgesel satışlar hakkında bilgi sağlar ve satış, kar ve satılan miktar açısından iş performansını anlamaya yardımcı olur.
+![image](https://github.com/user-attachments/assets/5d7fee85-5262-405f-9ff4-be42c14c9cfa)
+
 
 ## Veri Analiz Bölümleri
 
