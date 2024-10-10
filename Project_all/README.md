@@ -1,67 +1,67 @@
 
-# Global Süpermarket Panosu
+# Global Superstore Dashboard
 
-Bu proje, Global Süpermarket veri seti için satış, kar ve diğer önemli metriklerin detaylı analizini sağlar. Analiz, Ürün Bazlı, Müşteri Bazlı ve Bölge Bazlı olmak üzere üç ana kategoriye ayrılmıştır ve mağazanın performansını zaman içerisinde anlamak için tasarlanmıştır.
+This project provides a detailed analysis of sales, profits, and other key metrics for the Global Superstore dataset. The analysis is divided into three main categories: Product-Based, Customer-Based, and Region-Based, and is designed to understand store performance over time.
 
-## İçindekiler
-- [Proje Genel Bakış](#proje-genel-bakış)
-- [Veri Analiz Bölümleri](#veri-analiz-bölümleri)
-  - [Ürün Bazlı Analiz](#ürün-bazlı-analiz)
-  - [Müşteri Bazlı Analiz](#müşteri-bazlı-analiz)
-  - [Bölge Bazlı Analiz](#bölge-bazlı-analiz)
-- [Temel Metrikler ve İçgörüler](#temel-metrikler-ve-içgörüler)
-- [Teknik Detaylar](#teknik-detaylar)
-- [Yazar Bilgisi](#yazar-bilgisi)
-- [Son Güncelleme](#son-güncelleme)
+## Table of Contents
+- [Project Overview](#project-overview)
+- [Data Analysis Sections](#data-analysis-sections)
+  - [Product-Based Analysis](#product-based-analysis)
+  - [Customer-Based Analysis](#customer-based-analysis)
+  - [Region-Based Analysis](#region-based-analysis)
+- [Key Metrics and Insights](#key-metrics-and-insights)
+- [Technical Details](#technical-details)
+- [Author Information](#author-information)
+- [Last Update](#last-update)
 
-## Proje Genel Bakış
+## Project Overview
 
-Global Süpermarket Panosu, ürünler, müşteriler ve bölgesel satışlar hakkında bilgi sağlar ve satış, kar ve satılan miktar açısından iş performansını anlamaya yardımcı olur.
-![image](https://github.com/user-attachments/assets/5d7fee85-5262-405f-9ff4-be42c14c9cfa)
+The Global Superstore Dashboard provides information on products, customers, and regional sales to understand business performance in terms of sales, profits, and quantity sold.
 
+![image](https://github.com/user-attachments/assets/a91cdc07-e9dc-402f-ae4c-5f98757bc1df)
 
-## Veri Analiz Bölümleri
+## Data Analysis Sections
 
-### Ürün Bazlı Analiz
-- **Analiz Edilen Kategoriler**: Mobilya, Ofis Malzemeleri, Teknoloji
-- **Temel Metrikler**:
-  - Toplam Satış: 12,64M $
-  - Toplam Kar: 1,47M $
-  - Toplam Satış Miktarı: 178K adet
-- **Kara Göre En Çok Kazandıran Ürünler**:
-  - Canon imageCLASS (%35,5)
-  - Cisco Akıllı Telefon
-  - Motorola Akıllı Telefon
-  - Hoover Fırın
-- **En Çok Kar Getiren 10 Kategori**: Fotokopi Makineleri, Telefonlar, Ev Aletleri, Sandalyeler, vb.
+### Product-Based Analysis
+- **Categories Analyzed**: Furniture, Office Supplies, Technology
+- **Key Metrics**:
+  - Total Sales: $12.64M
+  - Total Profit: $1.47M
+  - Total Quantity Sold: 178K units
+- **Top Products by Profit**:
+  - Canon imageCLASS (35.5%)
+  - Cisco Smart Phone
+  - Motorola Smart Phone
+  - Hoover Stove
+- **Top 10 Categories by Profit**: Copiers, Phones, Appliances, Chairs, etc.
 
-### Müşteri Bazlı Analiz
-- **Analiz Edilen Segmentler**: Tüketici, Kurumsal, Ev Ofisi
-- **Temel Metrikler**:
-  - Toplam Müşteri Sayısı: 17,415
-  - En Çok Satın Alan Müşteri: Tom Ashbrook
-- **En Çok Satış Yapan 10 Müşteri**: Tom Ashbrook, Tamara Chand, Greg Tran ve diğerleri.
+### Customer-Based Analysis
+- **Segments Analyzed**: Consumer, Corporate, Home Office
+- **Key Metrics**:
+  - Total Customers: 17,415
+  - Top Customer: Tom Ashbrook
+- **Top 10 Customers by Sales**: Tom Ashbrook, Tamara Chand, Greg Tran, and others.
 
-### Bölge Bazlı Analiz
-- **Kapsanan Bölgeler**: Batı Avrupa, Orta Amerika, Doğu Asya ve daha fazlası
-- **Toplam Satış**: 165 ülke genelinde 12,64M $
-- **En Çok Satış Yapan Bölgeler**: Batı Avrupa, Orta Amerika, Doğu Asya vb.
+### Region-Based Analysis
+- **Regions Covered**: Western Europe, Central America, Eastern Asia, and more
+- **Total Sales**: $12.64M across 165 countries
+- **Top Regions by Sales**: Western Europe, Central America, Eastern Asia, etc.
 
-## Temel Metrikler ve İçgörüler
-- **Toplam Satış Dağılımı**:
-  - Teknoloji: %37,53
-  - Mobilya: %32,51
-  - Ofis Malzemeleri: %29,96
-- **Satış Büyümesinde Öne Çıkan Bölgeler**: Batı ABD, Doğu ABD, Güney Asya
-- Analiz, en yüksek performans gösteren ürünleri ve müşteri segmentlerini belirleyerek gelecekteki pazarlama ve satış stratejilerini hedeflemeye yardımcı olur.
+## Key Metrics and Insights
+- **Total Sales Distribution**:
+  - Technology: 37.53%
+  - Furniture: 32.51%
+  - Office Supplies: 29.96%
+- **Top Regions for Sales Growth**: Western US, Eastern US, Southern Asia
+- The analysis identifies the highest-performing products and customer segments, helping target future marketing and sales strategies.
 
-## Teknik Detaylar
-- **Kullanılan Araçlar**: Power BI Desktop
-- **Veri Dönemi**: 1 Ocak 2012 - 31 Aralık 2015
-- **Veri Kaynağı**: Global Süpermarket veri seti
+## Technical Details
+- **Tools Used**: Power BI Desktop
+- **Data Period**: January 1, 2012, to December 31, 2015
+- **Data Source**: Global Superstore dataset
 
-## Yazar Bilgisi
-Bu analiz, **Sahan** tarafından Global Süpermarket Projesi kapsamında gerçekleştirilmiştir.
+## Author Information
+This analysis was conducted by **Sahan** as part of the Global Superstore Project.
 
-## Son Güncelleme
-- **Tarih**: 1 Ekim 2024
+## Last Update
+- **Date**: October 1, 2024
