@@ -29,11 +29,13 @@ The Global Superstore Dashboard provides information on products, customers, and
   - Total Profit: $1.47M
   - Total Quantity Sold: 178K units
 - **Top Products by Profit**:
-  - Canon imageCLASS (35.5%)
+  - Canon imageCLASS
   - Cisco Smart Phone
   - Motorola Smart Phone
-  - Hoover Stove
+  - Hoover Stove ETC.
 - **Top 10 Categories by Profit**: Copiers, Phones, Appliances, Chairs, etc.
+  
+![image](https://github.com/user-attachments/assets/c4044b4e-8772-46b2-854f-81669254831b)
 
 ### Customer-Based Analysis
 - **Segments Analyzed**: Consumer, Corporate, Home Office
@@ -41,11 +43,16 @@ The Global Superstore Dashboard provides information on products, customers, and
   - Total Customers: 17,415
   - Top Customer: Tom Ashbrook
 - **Top 10 Customers by Sales**: Tom Ashbrook, Tamara Chand, Greg Tran, and others.
+  
+![image](https://github.com/user-attachments/assets/d808af6f-0fde-494a-b79a-ba65122fc35b)
 
 ### Region-Based Analysis
 - **Regions Covered**: Western Europe, Central America, Eastern Asia, and more
 - **Total Sales**: $12.64M across 165 countries
 - **Top Regions by Sales**: Western Europe, Central America, Eastern Asia, etc.
+
+![image](https://github.com/user-attachments/assets/d3457784-29aa-4ab9-8c21-96c0a5a2dd2d)
+
 
 ## Key Metrics and Insights
 - **Total Sales Distribution**:
@@ -59,9 +66,15 @@ The Global Superstore Dashboard provides information on products, customers, and
 - **Tools Used**: Power BI Desktop
 - **Data Period**: January 1, 2012, to December 31, 2015
 - **Data Source**: Global Superstore dataset
+## I showed Tooltip Page and Drillthrough
+
+![image](https://github.com/user-attachments/assets/ff2a6a37-fda6-485e-8a1c-148b6f2641e3)
+
+![image](https://github.com/user-attachments/assets/ef0defae-19cb-4f4e-8fd5-5561eabc9c6d)
+
 
 ## Author Information
-This analysis was conducted by **Sahan** as part of the Global Superstore Project.
+This analysis was conducted by **Sahan** as part of the Global Superstore Project. You can get information by contacting for more details
 
 ## Last Update
 - **Date**: October 1, 2024
