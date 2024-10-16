@@ -14,6 +14,13 @@ The dashboard is designed to help game developers, publishers, and stakeholders 
 - **Player Demographics**: Analyzes player distribution by age and gender, offering valuable information about the target audience.
 - **Top 10 Games by Sales**: Displays the highest-grossing games with their respective sales numbers.
 - **Game Achievements**: Examines achievements and their relation to total sales, giving insights into player engagement and performance.
+![image](https://github.com/user-attachments/assets/c7e61eed-031f-484b-8149-2cbf70892aeb)
+
+![image](https://github.com/user-attachments/assets/31eb1e81-091d-418e-ba06-eb8190fd9844)
+
+![image](https://github.com/user-attachments/assets/41b03df6-64e4-490a-b27b-b2227badfb7f)
+
+![image](https://github.com/user-attachments/assets/e4b61390-66eb-47e8-928b-e96e27ce32d2)
 
 ## Visuals
 
@@ -21,28 +28,28 @@ The dashboard is designed to help game developers, publishers, and stakeholders 
    - Sales performance across five key regions and five platforms.
    - Total sales amounted to **2.51 trillion** with the highest sales from the **Action** and **RPG** genres.
    
-   ![Total Sales by Region and Platform](path/to/visual1.png)  <!-- Replace with actual image path -->
+   ![image](https://github.com/user-attachments/assets/6fa1f869-0d28-4c1d-85e9-a38898e5cb50)
 
 2. **Player Count by Age Category and Gender**
    - Insight into player demographics.
    - Highlights player trends across different age groups and gender.
    
-   ![Player Count by Age and Gender](path/to/visual2.png)  <!-- Replace with actual image path -->
+   ![image](https://github.com/user-attachments/assets/aaf6cc72-a34e-49b4-a412-e8dfe85afb42)
 
 3. **Top 10 Games by Sales**
    - Games with the highest sales, such as "Eat Those" and "Find Eat Say," each with over **100 million** sales.
    
-   ![Top 10 Games by Sales](path/to/visual3.png)  <!-- Replace with actual image path -->
+   ![image](https://github.com/user-attachments/assets/84939fa9-0c99-444f-ae36-289eb6fdab20)
 
 4. **Total Sales by Year**
    - Yearly sales data from 2014 to 2024, highlighting market fluctuations and trends.
    
-   ![Total Sales by Year](path/to/visual4.png)  <!-- Replace with actual image path -->
+   ![image](https://github.com/user-attachments/assets/c2df9afb-bbfe-400f-bd99-5627c4f81190)
 
 5. **Platform Performance**
    - Performance comparison across platforms like Xbox, Nintendo Switch, PS5, Mobile, and PC.
    
-   ![Platform Performance](path/to/visual5.png)  <!-- Replace with actual image path -->
+   ![image](https://github.com/user-attachments/assets/07391d00-9e36-4b74-8f08-2fbc7160664b)
 
 ## Tools Used
 
