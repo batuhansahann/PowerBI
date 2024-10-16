@@ -14,7 +14,8 @@ The dashboard is designed to help game developers, publishers, and stakeholders 
 - **Player Demographics**: Analyzes player distribution by age and gender, offering valuable information about the target audience.
 - **Top 10 Games by Sales**: Displays the highest-grossing games with their respective sales numbers.
 - **Game Achievements**: Examines achievements and their relation to total sales, giving insights into player engagement and performance.
-![image](https://github.com/user-attachments/assets/c7e61eed-031f-484b-8149-2cbf70892aeb)
+- 
+![image](https://github.com/user-attachments/assets/68d49346-57d8-47b7-b07b-9c5dcedc4b11)
 
 ![image](https://github.com/user-attachments/assets/31eb1e81-091d-418e-ba06-eb8190fd9844)
 
