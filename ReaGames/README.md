@@ -21,7 +21,8 @@ The dashboard is designed to help game developers, publishers, and stakeholders 
 
 ![image](https://github.com/user-attachments/assets/41b03df6-64e4-490a-b27b-b2227badfb7f)
 
-![image](https://github.com/user-attachments/assets/e4b61390-66eb-47e8-928b-e96e27ce32d2)
+![image](https://github.com/user-attachments/assets/84503ce7-f690-48d4-ab0e-cfdbcbcb1b9a)
+
 
 ## Visuals
 
