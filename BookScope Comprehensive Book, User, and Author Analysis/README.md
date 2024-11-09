@@ -84,24 +84,6 @@ Examine publisher trends and market share:
 
 ---
 
-## How to Use
-
-1. **Exploring Visuals**: Click on any metric on the Overview Dashboard to dive into specific details.
-2. **Interacting with Filters**: Use filters like year, age, and rating to refine insights and explore specific segments.
-
----
-
-## Installation
-
-To explore the dashboard on your local machine:
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/BookScope.git
-   ```
-2. Open the `.pbix` file in Power BI Desktop.
-
----
-
 ## Conclusion
 
 BookScope offers a detailed view of reader trends and author insights, making it an ideal tool for publishers, authors, and book enthusiasts looking to understand reading patterns and preferences.
