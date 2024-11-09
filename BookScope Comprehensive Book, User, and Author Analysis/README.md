@@ -80,7 +80,7 @@ This section highlights author performance and popularity:
 Examine publisher trends and market share:
 - **Most Common Publishers**: Displays publishers with the highest number of book publications, indicating market presence.
 
-  ![Most Common Publishers](path_to_image) <!-- Replace with "Most Common Publishers" chart -->
+  ![image](https://github.com/user-attachments/assets/7d1e9a9d-3510-46c1-923b-1755e8e9b24e)
 
 ---
 
