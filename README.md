@@ -2,10 +2,6 @@
 ![Data Visualization GIF](./1.gif)
 Welcome to my **Power BI** repository! This space is dedicated to showcasing various **interactive dashboards and reports** I have developed using **Power BI**, enabling data-driven insights and decision-making.
 
-<p align="center">
-<img src="https://logos-world.net/wp-content/uploads/2022/02/Microsoft-Power-BI-Symbol.png" width="400" height="200"/>
-</p>
-
 ## 🔍 Overview
 
 In these projects, I utilize **Power BI** to analyze and visualize datasets across different industries, including **e-commerce, finance, and application analytics**. Each project focuses on:
